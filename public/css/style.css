@@ -1,0 +1,19 @@
+.nav-custom ul {
+    margin-bottom: 0;
+}
+
+
+#carouselExampleFade {
+    width: 90%;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    color: grey;
+    text-decoration: none;
+    text-align: right;
+}
