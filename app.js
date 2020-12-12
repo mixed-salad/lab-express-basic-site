@@ -17,3 +17,5 @@ app.get('/works', function(request, response) {
 app.get('/gallery', function(request, response) {
     response.sendFile(__dirname + '/views/gallery.html');
 });
+
+app.listen('3000');
