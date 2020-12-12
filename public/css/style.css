@@ -39,7 +39,14 @@ a:hover {
 
 /* Works page */
 
+.book-item {
+    margin-bottom: 50px;
+}
+
 .book-item img {
     max-width: 300px;
+    width: 100%;
+    height: 100%;
     padding-bottom: 25px;
 }
+
