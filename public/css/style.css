@@ -64,7 +64,7 @@ a:hover {
 }
 
 .book-item {
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .book-item img {
@@ -73,3 +73,18 @@ a:hover {
     height: 100%;
 }
 
+/* Gallery page */
+#gallery {
+    width: 90%;
+    display: flex;
+}
+
+#gallery div.img-box {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+}
+
+#gallery img {
+    width: 250px;
+}
